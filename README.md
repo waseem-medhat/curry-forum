@@ -1,4 +1,6 @@
-# CurryForum
+# Phoenix Forum
+
+This code is based on a tutorial by Caleb Curry: https://www.youtube.com/watch?v=9xaN44PNxps
 
 To start your Phoenix server:
 
